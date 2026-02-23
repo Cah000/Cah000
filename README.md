@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 Um pouco sobre mim
-- 💻 Explorando o mundo da programação.
-- 🎨 Apaixonado(a) por estética Pixel Art e Cyberpunk.
+- 💻 Estudante de ciencia da computação pela senac.
+- 🎨 Só estudando pra ficar rica e largar o clt de caixa
 - 🌌 Transformando café em código.
 
 ### 🛠️ Toolbox (Minhas Ferramentas futuras!)
@@ -24,5 +24,5 @@
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por Caht000</sub>
+  <sub>Feito por Caht000</sub>
 </div>
